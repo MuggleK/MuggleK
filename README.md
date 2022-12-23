@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm MuggleK. 
 
-I am a crawler with Python & Javascript :raised_hands: 
+I am a crawler with Python & JavaScript :raised_hands: 
 
 🔭 I’m currently working in ShenZhen China.
 
