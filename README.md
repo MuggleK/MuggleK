@@ -4,9 +4,10 @@ I'm MuggleK. I am a crawler with Python & Javascript :raised_hands:
 
 🔭 I’m currently working in ShenZhen China.
 
-📫 How to contact me:
+📫 Contact me:
 
-[![Send to me](https://img.shields.io/badge/Contact-Gmail-blue)](peichangchuan@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sml2h3@gmail.com)
+[![Wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](mailto:sml2h3@gmail.com)
 
 ---
 
