@@ -14,7 +14,7 @@ I am a crawler with Python & JavaScript :raised_hands:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/MuggleK/CrawlersTools/pull/4) in [MuggleK/CrawlersTools](https://github.com/MuggleK/CrawlersTools)
+1. 🎉 Merged PR [#5](https://github.com/MuggleK/CrawlersTools/pull/5) in [MuggleK/CrawlersTools](https://github.com/MuggleK/CrawlersTools)
 <!--END_SECTION:activity-->
 
 ---
